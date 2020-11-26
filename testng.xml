@@ -1,0 +1,11 @@
+
+
+<suite name="Suite" verbose="1">
+  <test name="Test">
+    <classes>
+      <class name="MyGroupID.MyArtifactID.SecondTest"/>
+      <!-- <class name="MyGroupID.MyArtifactID.TestOneWithMVN"/>
+      <class name="MyGroupID.MyArtifactID.AppTest"/> -->
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="36" started-at="2020-10-21T17:30:55Z" finished-at="2020-10-21T17:30:55Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="36" started-at="2020-10-21T17:30:55Z" finished-at="2020-10-21T17:30:55Z">
+      <class name="MyGroupID.MyArtifactID.SecondTest">
+        <test-method status="PASS" signature="MethodOne()[pri:0, instance:MyGroupID.MyArtifactID.SecondTest@402f32ff]" name="MethodOne" duration-ms="14" started-at="2020-10-21T23:00:55Z" finished-at="2020-10-21T23:00:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MethodOne -->
+        <test-method status="PASS" signature="MethodTwo()[pri:0, instance:MyGroupID.MyArtifactID.SecondTest@402f32ff]" name="MethodTwo" duration-ms="3" started-at="2020-10-21T23:00:55Z" finished-at="2020-10-21T23:00:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MethodTwo -->
+      </class> <!-- MyGroupID.MyArtifactID.SecondTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
