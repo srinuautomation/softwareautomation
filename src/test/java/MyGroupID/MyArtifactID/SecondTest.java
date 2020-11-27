@@ -16,5 +16,10 @@ public class SecondTest  {
 		System.out.println("Test2");
 	}
 	
-
+	@Test
+	public void testMethodThree(){
+		System.out.println("ClassName 'SecondTest'... MethodName 'MethodThree' for Maven Project");
+		System.out.println("test git commit");
+		System.out.println("Test3");
+	}
 }
