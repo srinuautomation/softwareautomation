@@ -13,6 +13,7 @@ public class SecondTest  {
 	public void testMethodTwo(){
 		System.out.println("ClassName 'SecondTest'... MethodName 'MethodTwo' for Maven Project");
 		System.out.println("test git commit");
+		System.out.println("Test2");
 	}
 	
 

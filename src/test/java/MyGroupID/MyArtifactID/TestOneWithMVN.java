@@ -6,7 +6,12 @@ public class TestOneWithMVN {
 	@Test
 	public void testMethodOne(){
 		System.out.println("ClassName 'TestOneWithMVN'... MethodName 'MethodOne' for Maven Project");
+		System.out.println("THis comment made from branch 'develop'");
 	}
 	
-
+	@Test
+	public void testMethodTwo(){
+		System.out.println("ClassName 'TestOneWithMVN'... MethodName 'tesMethodTwo' for Maven Project");
+		System.out.println("THis comment made from branch 'develop'");
+	}
 }
